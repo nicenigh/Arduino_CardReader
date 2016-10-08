@@ -6,6 +6,7 @@ http://cqrkjsj.applinzi.com
 
 v0.0
 引脚连接图：
+
 					-	-	-	-	-			
 	ESP8266	RX	-	|	TX	A	RAW	|	-		
 	ESP8267	TX	-	|	RX	R	GND	|	-		
@@ -25,6 +26,7 @@ arduino 328p + rc522 + esp8266
 
 v0.1
 引脚连接图：
+
 					-	-	-	-	-			
 				-	|	TX	A	RAW	|	-		
 				-	|	RX	R	GND	|	-		
@@ -44,6 +46,7 @@ RC522工作时竟然会影响到ESP8266的WiFi连接认证，所以必须要在�
 
 v0.2
 引脚连接图：
+
 					-	-	-	-	-			
 				-	|	TX	A	RAW	|	-		
 				-	|	RX	R	GND	|	-		
